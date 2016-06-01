@@ -1,3 +1,3 @@
 # FactionsPlus
-A new PocketMine Factions plugin
-with some amazing features to be added in
+### An Addons For Factions.
+### Any Person Can Help.
